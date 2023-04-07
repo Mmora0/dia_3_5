@@ -1,22 +1,29 @@
-/*Esta es el css del index*/
+/*Esta es la paleta de colores
+primario:#e84d5b
+secundario:#26979f
+terciario:#3b3b3b
+light:#eae2cf
+backgorund:#b4ccb9
++:
+*/
 .body1{
-
+    background-color: rgb(228, 213, 195);
 }
 .text-center{
-
+    text-align: center;
 }
-.bienvenida{
 
+.boton1{
+    display: block;
+    text-align: center;
 }
-.parrafor{
-
+.text-boton1{
+    
 }
-.presentado{
-
-}
-.boton{
-
+.boton2{
+    display: block;
+    text-align: center;
 }
 .text-boton{
-    
+
 }
