@@ -2,12 +2,15 @@
 primario:#e84d5b
 secundario:#26979f
 terciario:#3b3b3b
-light:#eae2cf
-backgorund:#b4ccb9
+light:#e7d098
+backgorund:#d5e2d8
 +:
 */
 .body1{
-    background-color: rgb(228, 213, 195);
+    background-color: #d5e2d8;
+}
+.body2{
+    background-color: #d5e2d8;
 }
 .text-center{
     text-align: center;
@@ -18,12 +21,30 @@ backgorund:#b4ccb9
     text-align: center;
 }
 .text-boton1{
-    
+    background-color: #a7c7f8;
 }
 .boton2{
     display: block;
     text-align: center;
 }
-.text-boton{
-
+.text-boton2{
+    background-color: #a7c7f8;
+}
+.text-primario{
+    color: #e84d5b;
+}
+.parrafo{
+    color: #9b1717;
+}
+.light{
+    background-color: #c0eeae;
+}
+.subtitulo{
+    color: #26979f;
+}
+.terciario{
+    color: #21a70f;
+}
+.sesion{
+    color: #4b1ec7;
 }
